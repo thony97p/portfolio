@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Raleway;
+    src: url("/fonts/Raleway/Raleway-VariableFont_wght.ttf");
+}
+
+:root {
+    --blue: #0196C1;
+    --light-blue: #48B5D6;
+    --lighter-blue: #B3E0EE;
+    --dark-blue: #046C95;
+    --darker-blue: #083346;
+    --fake-black: #2e2e2e;
+    --whity: #f7f9ff;
+}
+
+body {
+    margin: 0;
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+}
