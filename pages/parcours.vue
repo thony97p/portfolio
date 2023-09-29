@@ -1,9 +1,4 @@
-<script lang="ts">
-// export default {
-//     data: return({
-//         items:[]
-//     })
-// }
+<script>
 </script>
 
 <template>
@@ -13,7 +8,7 @@
             <li class="timeline-item">
                 <TimelineItem>
                     <template #dot>Octobre 2023</template>
-                    
+
                 </TimelineItem>
             </li>
         </ul>
